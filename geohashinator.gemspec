@@ -2,10 +2,10 @@
 require File.expand_path('../lib/geohashinator/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["TODO: Write your name"]
-  gem.email         = ["TODO: Write your email address"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.authors       = ["Vincent Siebert"]
+  gem.email         = ["vincent@siebert.im"]
+  gem.description   = %q{Gem for easy adding of geohash functionality}
+  gem.summary       = %q{Gem for easy adding of geohash functionality}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
